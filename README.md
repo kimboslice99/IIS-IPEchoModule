@@ -6,8 +6,6 @@ The **IPEcho Module** is an IIS module designed to echo the remote IP address of
 ## Features
 - Retrieves the client's IP address using the `REMOTE_ADDR` server variable.
 - Returns the IP address in the response body as plaintext.
-- Provides high-performance, optimized for fast handling of incoming HTTP requests.
-- Configurable for easy integration into IIS-hosted applications.
 
 ```
 Statistics        Avg      Stdev        Max
