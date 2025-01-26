@@ -1,0 +1,4 @@
+LIBRARY IPEchoModule
+
+EXPORTS
+	RegisterModule
